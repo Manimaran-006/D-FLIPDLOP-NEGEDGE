@@ -1,16 +1,18 @@
-# D-FLIPDLOP-NEGEDGE
+## NAME: MANIMARAN V
+## REG.NO:240008541
+## EXPERIMENT 8:D-FLIPDLOP-NEGEDGE
 
-**AIM:**
+## AIM:
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
 
-**SOFTWARE REQUIRED:**
+## SOFTWARE REQUIRED:
 
 Quartus prime
 
-**THEORY**
+## THEORY
 
-**D Flip-Flop**
+## D FLIP-FLOP
 
 D flip-flop operates with only positive clock transitions or negative clock transitions. Whereas, D latch operates with enable signal. That means, the output of D flip-flop is insensitive to the changes in the input, D except for active transition of the clock signal. The circuit diagram of D flip-flop is shown in the following figure.
 
@@ -26,19 +28,23 @@ Therefore, D flip-flop always Hold the information, which is available on data i
 
 Next state of D flip-flop is always equal to data input, D for every positive transition of the clock signal. Hence, D flip-flops can be used in registers, shift registers and some of the counters.
 
-**Procedure**
+## PROCEDURE
 
 /* write all the steps invloved */
 
-**PROGRAM**
+## PROGRAM
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
-
-**RTL LOGIC FOR FLIPFLOPS**
+![Screenshot 2024-12-21 174240](https://github.com/user-attachments/assets/8af4d579-9e77-441d-9b6b-448361c69cc5)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+## RTL LOGIC FOR FLIPFLOPS
+![Screenshot 2024-12-21 174249](https://github.com/user-attachments/assets/56d674b8-b6a2-4f6a-9964-74742e17f479)
 
 
-**RESULTS**
+## TIMING DIGRAMS FOR FLIP FLOPS
+![Screenshot 2024-12-21 174256](https://github.com/user-attachments/assets/1f3d3967-ee3f-469b-9606-54a09cb85587)
+
+
+## RESULTS
+Thus,the program to implement a D flipflop using verilog and validating their
+functionality using their functional tables.
